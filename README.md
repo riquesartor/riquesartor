@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: henricampsartor@hotmail.com
-
+- 
 <a href="https://github.com/riquesartor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquesartor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquesartor&layout=compact&langs_count=7&theme=tokyonight"/>
