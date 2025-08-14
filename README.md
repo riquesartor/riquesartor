@@ -1,7 +1,7 @@
 ### Olá! Aqui quem fala é o Henrique 👋
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently working on data lake
+- 🌱 I’m currently learning Python and SQL
 
 <a href="https://github.com/riquesartor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquesartor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
