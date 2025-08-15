@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python and SQL
 
 <a href="https://github.com/riquesartor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquesartor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src=(https://github-readme-stats.vercel.app/api?username=riquesartor)](https://github.com/riquesartor/github-readme-stats)/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquesartor&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
